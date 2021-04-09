@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.vimeo.com\/video\/493375790\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/player.vimeo.com\/video\/493375790?autoplay=1&title=0&byline=0&portrait=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
