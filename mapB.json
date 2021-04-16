@@ -681,7 +681,7 @@
          "name":"LouvreAbsperrung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":122,
          "x":0,
          "y":0
@@ -693,7 +693,7 @@
          "name":"louvreGold",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":122,
          "x":0,
          "y":0
@@ -705,7 +705,7 @@
          "name":"Louvre bilder",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":122,
          "x":0,
          "y":0
