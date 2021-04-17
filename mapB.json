@@ -552,7 +552,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg"
+                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg#\/media\/File:Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
