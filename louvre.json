@@ -312,7 +312,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:Jean_broc,_la_scuola_di_apelle,_ante_1800,_01.jpg#\/media\/File:Jean_broc,_la_scuola_di_apelle,_ante_1800,_01.jpg"
+                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Peinture_n%C3%A9o-classique#\/media\/Fichier:Jean_broc,_la_scuola_di_apelle,_ante_1800,_01.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
