@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:Jacques-Louis_David,_The_Coronation_of_Napoleon.jpg#\/media\/Datei:Jacques-Louis_David,_The_Coronation_of_Napoleon.jpg"
+                 "value":"https:\/\/de.wikipedia.org\/wiki\/Napoleon_Bonaparte#\/media\/Datei:Jacques-Louis_David,_The_Coronation_of_Napoleon.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:Anne-Louis_Girodet_De_Roucy-Trioson_-_The_Entombment_of_Atala_-_WGA09504.jpg#\/media\/File:Anne-Louis_Girodet_De_Roucy-Trioson_-_The_Entombment_of_Atala_-_WGA09504.jpg"
+                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Mod%C3%A8le:Wikidata_list\/Test#\/media\/Fichier:Anne-Louis_Girodet_De_Roucy-Trioson_-_The_Entombment_of_Atala_-_WGA09504.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:Pierre_peyron,_la_morte_di_alceste,_1785.jpg#\/media\/File:Pierre_peyron,_la_morte_di_alceste,_1785.jpg"
+                 "value":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/aa\/Pierre_peyron%2C_la_morte_di_alceste%2C_1785.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -294,7 +294,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg#\/media\/File:Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg"
+                 "value":"https:\/\/en.wikipedia.org\/wiki\/Figure_painting#\/media\/File:Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -330,7 +330,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:David._Madame_R%C3%A9camier.jpg#\/media\/File:David._Madame_R%C3%A9camier.jpg"
+                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Femmes_et_salons_litt%C3%A9raires_en_France#\/media\/Fichier:David._Madame_R%C3%A9camier.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
